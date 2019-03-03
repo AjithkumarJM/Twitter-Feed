@@ -1,0 +1,13 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+  background: #e6ecf0;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1237px;
+  }
+}

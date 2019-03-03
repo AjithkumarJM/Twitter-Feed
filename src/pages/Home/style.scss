@@ -1,0 +1,29 @@
+.action-btns {
+  .fa-heart {
+    &:hover {
+      color: #dc3545 !important;
+      cursor: pointer;
+    }
+  }
+
+  .fa-retweet {
+    &:hover {
+      color: #28a745 !important;
+      cursor: pointer;
+    }
+  }
+
+  .fa-comment {
+    &:hover {
+      color: #28a745 !important;
+      cursor: pointer;
+    }
+  }
+
+  .fa-envelope {
+    &:hover {
+      color: #96a8da !important;
+      cursor: pointer;
+    }
+  }
+}
